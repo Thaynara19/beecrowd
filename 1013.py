@@ -7,4 +7,4 @@ B = int(valor[1])
 C = int(valor[2])
 MAIOR = ((A+B)+abs(A-B))/2
 RES = ((MAIOR +C)+abs(MAIOR - C))/2
-print("%d eh maior"%RES)
+print("%d eh o maior"%RES)
